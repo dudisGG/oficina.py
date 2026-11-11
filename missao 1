@@ -1,0 +1,4 @@
+frutas = ["manga", "uva", "minions"]
+print("a primeira é", frutas[0])
+print("a última é", frutas[-1])
+print("tenho", len(frutas), "frutas favoritas")
